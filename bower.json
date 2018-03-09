@@ -11,5 +11,10 @@
   },
   "resolutions": {
     "polymer": "^2.0.0"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "git"
+  ],
+  "private": true
 }
